@@ -121,101 +121,6 @@ A community driven list of useful Emacs packages, libraries and others.
 
 Most of the following packages are available in [MELPA](https://github.com/milkypostman/melpa). We recommend installing packages via it.
 
-> **Table of Contents**
-> -   Awesome Emacs (See section )
->     -   Interface Enhancement (See section )
->     -   File Manager (See section )
->     -   Navigation (See section )
->     -   Visual (See section )
->     -   Editing (See section )
->         -   Kill-ring (See section )
->     -   Project management (See section )
->     -   Programming (See section )
->         -   Completion (See section )
->         -   Document (See section )
->         -   Code Folding (See section )
->         -   Error Checking (See section )
->         -   Jump to Definition (See section )
->     -   Programming Language (See section )
->         -   C/C++ (See section )
->         -   Python (See section )
->         -   Ruby (See section )
->         -   Lisp Family (See section )
->             -   Common Lisp (See section )
->             -   Scheme (See section )
->             -   Clojure (See section )
->             -   Emacs Lisp (See section )
->         -   Web Development (See section )
->             -   JavaScript (See section )
->                 -   CoffeeScript (See section )
->                 -   TypeScript (See section )
->                 -   PureScript (See section )
->             -   PHP (See section )
->         -   Java (See section )
->         -   Go (See section )
->         -   C# (See section )
->         -   Rust (See section )
->         -   Erlang (See section )
->         -   Elixir (See section )
->         -   Haskell (See section )
->         -   Swift (See section )
->         -   Scala (See section )
->         -   Lua (See section )
->         -   SML (See section )
->         -   Groovy (See section )
->         -   OCaml (See section )
->         -   Nim (See section )
->         -   D (See section )
->         -   Elm (See section )
->         -   Stan (See section )
->         -   MIPS Assembly (See section )
->         -   RISCV Assembly (See section )
->     -   Keys Cheat Sheet (See section )
->     -   Note (See section )
->         -   Org-mode (See section )
->     -   Version control (See section )
->     -   Integration (See section )
->         -   Console (See section )
->         -   Operating System (See section )
->         -   Search (See section )
->             -   Ack (See section )
->             -   Ag (See section )
->             -   Pt (See section )
->             -   Sift (See section )
->             -   Ripgrep (See section )
->         -   Pastebin (See section )
->         -   Google (See section )
->         -   Blog System (See section )
->     -   Markdown (See section )
->     -   LaTeX (See section )
->     -   PDF (See section )
->     -   Internet (See section )
->         -   Browser (See section )
->         -   Mail (See section )
->         -   IRC (See section )
->         -   Chat (See section )
->         -   Social Network (See section )
->         -   Web Feed (See section )
->     -   DevOps (See section )
->     -   Package Management (See section )
->         -   Package Manager (See section )
->         -   Package Configuration (See section )
->         -   Package Updates (See section )
->     -   Library (See section )
->     -   Appearance (See section )
->     -   Theme (See section )
->     -   Multimedia (See section )
->     -   Fun (See section )
->     -   Starter Kit (See section )
->     -   Noteworthy Configurations (See section )
->     -   Tutorials (See section )
->     -   Links and resources (See section )
-> -   Contributing (See section )
->     -   The Order of Items (See section )
->     -   Emacs Built-In Packages (See section )
->     -   Generate "Table of Contents" (See section )
-> -   Other Awesome Lists (See section )
-> -   License (See section )
 
 ## Interface Enhancement<a id="sec-1-1" name="sec-1-1"></a>
 
@@ -451,17 +356,17 @@ Most of the following packages are available in [MELPA](https://github.com/milky
     -   [tern](http://ternjs.net/doc/manual.html#emacs) - Emacs flavor of the popular JavaScript analysis engine
     -   [json-mode](https://github.com/joshwnj/json-mode) - Major mode for editing JSON files.
     -   [jade](https://github.com/NicolasPetton/jade) - JavaScript Awesome Development Environment (in Emacs).
-    
+
     1.  CoffeeScript
-    
+
         -   [coffee-mode](https://github.com/defunkt/coffee-mode) - An Emacs major mode for CoffeeScript and IcedCoffeeScript.
-    
+
     2.  TypeScript
-    
+
         -   [Tide](https://github.com/ananthakumaran/tide) - TypeScript Interactive Development Environment for Emacs.
-    
+
     3.  PureScript
-    
+
         -   [purescript-mode](https://github.com/dysinger/purescript-mode) - An Emacs major mode for PureScript.
         -   [emacs-psci](https://github.com/ardumont/emacs-psci) - An Emacs major mode for psci.
 
