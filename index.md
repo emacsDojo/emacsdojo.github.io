@@ -283,6 +283,7 @@ Most of the following packages are available in [MELPA](https://github.com/milky
 -   [ggtags](https://github.com/leoliu/ggtags) - Emacs frontend to GNU Global source code tagging system.
 -   [irony-mode](https://github.com/Sarcasm/irony-mode) - A C/C++ minor mode for Emacs powered by libclang.
 -   [cmake-font-lock](https://github.com/Lindydancer/cmake-font-lock) - Enhanced font-lock rules for CMake.
+-   [emacs-cmake-project](https://github.com/alamaison/emacs-cmake-project) - Helps to build and compile cmake projects from emacs itself.
 -   [function-args](https://github.com/abo-abo/function-args) - visual CEDET enhancements for C++.
 -   [Ebrowse](https://www.gnu.org/software/emacs/manual/html_node/ebrowse/index.html) - `[built-in]` A C++ class browser.
 
